@@ -1,0 +1,2 @@
+# Templates
+MS Azure
